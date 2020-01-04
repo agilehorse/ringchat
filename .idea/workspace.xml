@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7499d987-8e6d-4d47-8119-da9a02b5e980" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DSV_sem" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1Ud3PLleU4MShJ7NAsk04PE7og5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SchoolAndCoding\5.semester\Distribuované_systémy_a_výpočty\DSV_sem\src\main\resources" />
+      <recent name="D:\SchoolAndCoding\5.semester\Distribuované_systémy_a_výpočty\DSV_sem\src\main\java\cz\cvut\fel\bulkodav" />
+      <recent name="D:\SchoolAndCoding\5.semester\Distribuované_systémy_a_výpočty\DSV_semestral_project\src\main\java\bulkodav\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SchoolAndCoding\5.semester\Distribuované_systémy_a_výpočty\DSV_sem\src\main\resources\fxmls" />
+      <recent name="D:\SchoolAndCoding\5.semester\Distribuované_systémy_a_výpočty\DSV_sem\src\main\resources\images" />
+      <recent name="D:\SchoolAndCoding\5.semester\Distribuované_systémy_a_výpočty\DSV_sem\src\main\resources" />
+      <recent name="D:\SchoolAndCoding\5.semester\Distribuované_systémy_a_výpočty\DSV_sem\src\main\java\cz\cvut\fel\bulkodav" />
+      <recent name="D:\SchoolAndCoding\5.semester\Distribuované_systémy_a_výpočty\DSV_semestral_project\src\main\java\cz\cvut\fel\bulkodav" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install -X" />
+      <command value="mvn clean package" />
+      <command value="mvn clean validate compile package" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CmdMain">
+    <configuration name="CmdMain" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cz.cvut.fel.bulkodav.CmdMain" />
+      <module name="DSV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.cvut.fel.bulkodav.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="817753384422400" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewMain" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cz.cvut.fel.bulkodav.ViewMain" />
+      <module name="DSV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.cvut.fel.bulkodav.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bulkodav.view.ViewMain" />
+      <module name="DSV_semestral_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bulkodav.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DSV_semestral_project [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="DSV_semestral_project [compile]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="DSV_semestral_project [validate]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="validate" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ViewMain" />
+      <item itemvalue="Application.CmdMain" />
+      <item itemvalue="Maven.DSV_semestral_project [compile]" />
+      <item itemvalue="Maven.DSV_semestral_project [clean]" />
+      <item itemvalue="Maven.DSV_semestral_project [validate]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CmdMain" />
+        <item itemvalue="Application.ViewMain" />
+        <item itemvalue="Maven.DSV_semestral_project [compile]" />
+        <item itemvalue="Maven.DSV_semestral_project [validate]" />
+        <item itemvalue="Maven.DSV_semestral_project [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7499d987-8e6d-4d47-8119-da9a02b5e980" name="Default Changelist" comment="" />
+      <created>1575672619573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575672619573</updated>
+      <workItem from="1575672626163" duration="570000" />
+      <workItem from="1575673623340" duration="53915000" />
+      <workItem from="1576060024703" duration="9222000" />
+      <workItem from="1576077738219" duration="24777000" />
+      <workItem from="1576264060391" duration="18145000" />
+      <workItem from="1576346482463" duration="19650000" />
+      <workItem from="1576417301908" duration="15000" />
+      <workItem from="1576417351795" duration="113821000" />
+      <workItem from="1576856644450" duration="135000" />
+      <workItem from="1576856862584" duration="87000" />
+      <workItem from="1576856965204" duration="2732000" />
+      <workItem from="1576862661626" duration="55826000" />
+      <workItem from="1576964799873" duration="217000" />
+      <workItem from="1576965030744" duration="14746000" />
+      <workItem from="1577010471330" duration="9598000" />
+      <workItem from="1577023581657" duration="6192000" />
+      <workItem from="1577031792466" duration="1550000" />
+      <workItem from="1577033791146" duration="2510000" />
+      <workItem from="1577037138234" duration="1383000" />
+      <workItem from="1577038864929" duration="988000" />
+      <workItem from="1577040558683" duration="1601000" />
+      <workItem from="1577090446877" duration="655000" />
+      <workItem from="1577093572840" duration="32328000" />
+      <workItem from="1577176096897" duration="11818000" />
+      <workItem from="1577192630098" duration="1499000" />
+      <workItem from="1577196964993" duration="14570000" />
+      <workItem from="1577266823670" duration="12485000" />
+      <workItem from="1577300901240" duration="17202000" />
+      <workItem from="1577355909237" duration="8469000" />
+      <workItem from="1577376796351" duration="788000" />
+      <workItem from="1577380584681" duration="6786000" />
+      <workItem from="1577389748341" duration="670000" />
+      <workItem from="1577391233339" duration="613000" />
+      <workItem from="1577396182418" duration="17374000" />
+      <workItem from="1577447644117" duration="1138000" />
+      <workItem from="1577456365548" duration="12196000" />
+      <workItem from="1577532049736" duration="862000" />
+      <workItem from="1577534969288" duration="1821000" />
+      <workItem from="1577537391613" duration="2640000" />
+      <workItem from="1577548763665" duration="30000" />
+      <workItem from="1577550361407" duration="1590000" />
+      <workItem from="1577567884089" duration="398000" />
+      <workItem from="1577610901303" duration="22461000" />
+      <workItem from="1577651975797" duration="6528000" />
+      <workItem from="1577696337672" duration="36039000" />
+      <workItem from="1577903937472" duration="10113000" />
+      <workItem from="1577959969040" duration="7805000" />
+      <workItem from="1577970207266" duration="3098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1469" y="92" key="#Customize_Threads_View" timestamp="1576696112488">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1469" y="92" key="#Customize_Threads_View/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576696112488" />
+    <state x="361" y="73" key="#Customize_Threads_View/0.0.1536.824@0.0.1536.824" timestamp="1576077925558" />
+    <state x="399" y="35" key="#DSV_[package]" timestamp="1577011161151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="35" key="#DSV_[package]/0.0.1536.824@0.0.1536.824" timestamp="1577011161151" />
+    <state x="361" y="75" key="#Inspections" timestamp="1576968906248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1576968906248" />
+    <state x="552" y="181" key="#Log_Highlighting_(ideolog)" timestamp="1576856917507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Log_Highlighting_(ideolog)/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576856917507" />
+    <state x="552" y="182" key="#Notifications" timestamp="1576856934196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Notifications/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576856934196" />
+    <state x="361" y="75" key="#Plugins" timestamp="1576965015784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1576965015784" />
+    <state x="361" y="73" key="#Project_Structure" timestamp="1577610975262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1577610975262" />
+    <state x="-1368" y="181" key="#Template" timestamp="1575759294145">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="181" key="#Template/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575759294145" />
+    <state x="331" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577710014007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1506" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575810107835" />
+    <state x="331" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577710014007" />
+    <state x="612" y="179" key="#com.intellij.ide.util.MemberChooser" timestamp="1577744226798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1155" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576622227058" />
+    <state x="612" y="179" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577744226798" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577128115413" />
+    <state x="2532" y="181" key="#com.intellij.ide.util.MemberChooser/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577125128719" />
+    <state x="649" y="326" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577300909473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1109" y="411" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575673713314" />
+    <state x="649" y="326" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1577300909473" />
+    <state x="640" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576856688092">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576856688092" />
+    <state x="388" y="356" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576970339957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1435" y="449" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575759382875" />
+    <state x="388" y="356" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1576970339957" />
+    <state x="-1159" y="388" width="398" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576407610537">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1159" y="388" width="398" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576407610537" />
+    <state x="614" y="307" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1576918462616">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1152" y="388" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576092428739" />
+    <state x="614" y="307" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1536.824@0.0.1536.824" timestamp="1576918462616" />
+    <state x="59" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577966946203">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1206" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576407968522" />
+    <state x="59" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1577966946203" />
+    <state x="541" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576950030736" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577280482519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1296" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576533629697" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1577280482519" />
+    <state width="645" height="370" key="DebuggerActiveHint" timestamp="1577948697386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="455" height="466" key="DebuggerActiveHint/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576706232420" />
+    <state width="645" height="370" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1577948697386" />
+    <state width="549" height="467" key="DebuggerActiveHint/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577551674013" />
+    <state width="606" height="374" key="DebuggerActiveHint/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577377425491" />
+    <state x="592" y="219" key="FileChooserDialogImpl" timestamp="1577568283010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1180" y="277" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576416076989" />
+    <state x="592" y="219" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1576358853398" />
+    <state x="592" y="219" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577568283010" />
+    <state x="1283" y="123" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577192680113" />
+    <state width="1493" height="308" key="GridCell.Tab.0.bottom" timestamp="1577973527658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576707200934" />
+    <state width="1493" height="308" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577973527658" />
+    <state width="1877" height="315" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577552198252" />
+    <state width="1493" height="197" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577377587651" />
+    <state width="1493" height="308" key="GridCell.Tab.0.center" timestamp="1577973527658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576707200934" />
+    <state width="1493" height="308" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577973527658" />
+    <state width="1877" height="315" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577552198252" />
+    <state width="1493" height="197" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577377587650" />
+    <state width="1493" height="308" key="GridCell.Tab.0.left" timestamp="1577973527658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576707200934" />
+    <state width="1493" height="308" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577973527658" />
+    <state width="1877" height="315" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577552198252" />
+    <state width="1493" height="197" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577377587650" />
+    <state width="1493" height="308" key="GridCell.Tab.0.right" timestamp="1577973527658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576707200934" />
+    <state width="1493" height="308" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577973527658" />
+    <state width="1877" height="315" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577552198252" />
+    <state width="1493" height="197" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577377587650" />
+    <state width="1493" height="232" key="GridCell.Tab.1.bottom" timestamp="1577973527654">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576707200934" />
+    <state width="1493" height="232" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577973527654" />
+    <state width="1877" height="315" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577552198252" />
+    <state width="1493" height="197" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577377587651" />
+    <state width="1493" height="232" key="GridCell.Tab.1.center" timestamp="1577973527654">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576707200934" />
+    <state width="1493" height="232" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577973527654" />
+    <state width="1877" height="315" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577552198252" />
+    <state width="1493" height="197" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577377587651" />
+    <state width="1493" height="232" key="GridCell.Tab.1.left" timestamp="1577973527653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576707200934" />
+    <state width="1493" height="232" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577973527653" />
+    <state width="1877" height="315" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577552198252" />
+    <state width="1493" height="197" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577377587651" />
+    <state width="1493" height="232" key="GridCell.Tab.1.right" timestamp="1577973527654">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576707200934" />
+    <state width="1493" height="232" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577973527654" />
+    <state width="1877" height="315" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577552198252" />
+    <state width="1493" height="197" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577377587651" />
+    <state x="592" y="350" key="ReplaceDuplicatesPrompt" timestamp="1576918414412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="350" key="ReplaceDuplicatesPrompt/0.0.1536.824@0.0.1536.824" timestamp="1576918414412" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1577611036756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1783" y="88" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575674520619" />
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577611036756" />
+    <state x="644" y="151" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577192779711" />
+    <state x="534" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1577970235709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1252" y="347" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576418522869" />
+    <state x="534" y="275" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577970235709" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577550361773" />
+    <state x="2454" y="278" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577380584545" />
+    <state x="-1254" y="172" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576265698479">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1254" y="172" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576265698479" />
+    <state x="-1367" y="251" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575839713213">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1367" y="251" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575839713213" />
+    <state x="114" y="323" width="538" height="481" key="extract.method.dialog" timestamp="1577912267819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1230" y="292" key="extract.method.dialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576621148755" />
+    <state x="114" y="323" width="538" height="481" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1577912267819" />
+    <state x="116" y="280" key="extract.method.dialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1576868817725" />
+    <state x="668" y="161" width="718" height="719" key="find.popup" timestamp="1577457041404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1253" y="161" width="586" height="717" key="find.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576106913086" />
+    <state x="534" y="128" width="574" height="569" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1576789126512" />
+    <state x="668" y="161" width="718" height="719" key="find.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577457041404" />
+    <state x="2454" y="129" width="574" height="575" key="find.popup/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577126880897" />
+    <state x="342" y="224" key="new project wizard" timestamp="1577541389732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1578" y="224" key="new project wizard/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575673972534" />
+    <state x="342" y="224" key="new project wizard/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577541389732" />
+    <state x="562" y="75" key="refactoring.ChangeSignatureDialog" timestamp="1577962527023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1218" y="154" key="refactoring.ChangeSignatureDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576696677024" />
+    <state x="562" y="75" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1577962527023" />
+    <state x="2482" y="76" key="refactoring.ChangeSignatureDialog/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577121043067" />
+    <state x="493" y="190" width="672" height="677" key="run.anything.popup" timestamp="1577972932108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1304" y="240" key="run.anything.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576533590695" />
+    <state x="493" y="190" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1577972932108" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577548766837" />
+    <state x="2413" y="192" width="672" height="684" key="run.anything.popup/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577115965838" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1577457017772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1381" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576529787297" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1576970609180" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577457017772" />
+    <state x="2351" y="146" width="672" height="685" key="search.everywhere.popup/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1577126855884" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/view/Controller.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/view/Controller.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/view/Controller.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/view/Controller.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/PeasantHandler.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/KingLogic.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="500" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/KingHandler.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="519" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/Node.java</url>
+          <line>262</line>
+          <option name="timeStamp" value="527" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/KingLogic.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="541" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/Node.java</url>
+          <line>152</line>
+          <option name="timeStamp" value="544" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/KingLogic.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="569" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/KingLogic.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="570" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/KingLogic.java</url>
+          <line>163</line>
+          <option name="timeStamp" value="571" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/KingLogic.java</url>
+          <line>161</line>
+          <option name="timeStamp" value="572" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/PeasantHandler.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="573" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/PeasantLogic.java</url>
+          <line>246</line>
+          <option name="timeStamp" value="574" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/PeasantLogic.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="578" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/Node.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="608" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/KingLogic.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="621" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/KingLogic.java</url>
+          <line>324</line>
+          <option name="timeStamp" value="622" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/PeasantLogic.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="624" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/PeasantLogic.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="625" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/KingLogic.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="632" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/PeasantHandler.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="642" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/node/PeasantHandler.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="643" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fel/bulkodav/communication/CommunicationLink.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="645" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DSV_semestral_project$Main.ic" NAME="Main Coverage Results" MODIFIED="1576673928366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bulkodav.*</FILTER>
+    </SUITE>
+  </component>
+</project>

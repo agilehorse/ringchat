@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane minHeight="420.0" minWidth="800.0" prefHeight="420.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cz.cvut.fel.bulkodav.view.ChatController">
+   <children>
+      <Pane minHeight="420.0" minWidth="800.0" prefHeight="420.0" prefWidth="800.0">
+         <children>
+            <TextField fx:id="messageField" layoutX="260.0" layoutY="350.0" minHeight="-Infinity" minWidth="-Infinity" onAction="#onEnter" prefHeight="25.0" prefWidth="400.0" promptText="Write message here" />
+            <Button fx:id="sendButton" layoutX="685.0" layoutY="350.0" minWidth="55.0" mnemonicParsing="false" prefWidth="55.0" text="Send" />
+            <TableView fx:id="topologyTable" layoutX="38.0" layoutY="145.0" prefHeight="230.0" prefWidth="180.0">
+              <columns>
+                <TableColumn fx:id="nodeNameColumn" minWidth="60.0" prefWidth="60.0" text="Node" />
+                <TableColumn fx:id="leftNodeNameColumn" minWidth="60.0" prefWidth="60.0" text="Left" />
+                  <TableColumn fx:id="rightNodeNameColumn" minWidth="60.0" prefWidth="60.0" text="Right" />
+              </columns>
+            </TableView>
+            <Label layoutX="38.0" layoutY="92.0" minWidth="-Infinity" prefWidth="94.0" text="Topology Info">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Label>
+            <TextArea fx:id="chatArea" editable="false" layoutX="260.0" layoutY="46.0" prefHeight="280.0" prefWidth="480.0" />
+            <Label fx:id="userNameLabel" layoutX="38.0" layoutY="49.0" minWidth="-Infinity" prefWidth="69.0" text="UserName">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font></Label>
+            <Button fx:id="logOffButton" layoutX="148.0" layoutY="47.0" minWidth="70.0" mnemonicParsing="false" onAction="#logOff" prefWidth="70.0" text="Log off" />
+            <Button fx:id="refreshButton" layoutX="148.0" layoutY="90.0" minWidth="70.0" mnemonicParsing="false" onAction="#refreshTopologyInfo" prefWidth="70.0" text="Refresh" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
